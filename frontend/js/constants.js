@@ -1,5 +1,5 @@
-const contractAddress = "0xD4B20D3b5FF6dEF1a836D30C535F81C51f7ce29E"; //Replace with your own contract address
-const chain = 'rinkeby'; // rinkeby or polygon
+const contractAddress = "0x487d7b90a8a7275a61af10d66DBe3b336396DF34"; //Replace with your own contract address
+const chain = 'polygon'; // rinkeby or polygon
 
 const welcome_h1 = "Welcome to the FEMBOTS NFT Project!!";
 const welcome_h2 = "Connect to MetaMask to Get Started";
