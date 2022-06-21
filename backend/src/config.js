@@ -127,7 +127,8 @@ const PRESALE_WHITELISTED_ADDRESSES = ["0x02C00509C7d9bC2C20018d943Cc35e861A2Ca5
 "0x06e24f1CFB560a1ec1C489174d5E1cc1aDBD9c74",
 "0xb0f18da4bea7e81091dbe707aba2ddc3194d0dff",
 "0x17907a099153Aa9662A9321da5AA24F2AD484dc9",
-"0x231eEAA5F65140E15A111419ad3f0e1b41b54295" ]; // only update if you want to manually set the whitelisted addresses
+"0x231eEAA5F65140E15A111419ad3f0e1b41b54295",
+"0xCeCAbf76D9fdFa32A2F5089442cF6A33F7bd4E45" ]; // only update if you want to manually set the whitelisted addresses
 
 // ** OPTIONAL **
 let CONTRACT_ADDRESS = "your contract address"; // If you want to manually include it
